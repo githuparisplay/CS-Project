@@ -52,19 +52,19 @@
 #Notice: You will not move on with your mission until you choose A) to go to School.
 
 #Outcomes
-#A) You have arrived at School. Time to begin your mission.
-#B) You have explored more of Planet Earth. You found a map.
-#C) You have checked out your Quarters. Your Quarters as additional funttions: Craft, Heal, Lookout.
-#D) You have ended your mission here. Your species is confused at your choice.
-#E) (Mission Briefing)
+    #A) You have arrived at School. Time to begin your mission.
+    #B) You have explored more of Planet Earth. You found a map.
+    #C) You have checked out your Quarters. Your Quarters as additional funttions: Craft, Heal, Lookout.
+    #D) You have ended your mission here. Your species is confused at your choice.
+    #E) (Mission Briefing)
 #Notice: You do not loose any oxygen fillters while in your Quarters, unless your choice leads you to Earth.
 
 #Consequences
-#A) You are ready to begin MISSION ATTEND SCHOOL.  (You proceed to Scene 1 : Begin Mission SCHOOL (of Hero Arc)
-#B) New item is in your Inventory: Map. (-1 oxygen fillter)
-#C) You can use any of these functions while in your Quarters by inputting their name.
-#D) Game Over!  (Returned to Scene 1 : Intro.)
-#E) You have read your mission briefing again. You feel more prepared for your mission.
+    #A) You are ready to begin MISSION ATTEND SCHOOL.  (You proceed to Scene 1 : Begin Mission SCHOOL (of Hero Arc)
+    #B) New item is in your Inventory: Map. (-1 oxygen fillter)
+    #C) You can use any of these functions while in your Quarters by inputting their name.
+    #D) Game Over!  (Returned to Scene 1 : Intro.)
+    #E) You have read your mission briefing again. You feel more prepared for your mission.
 
 
 #COMING SCOON: MISSION SABATAGE
@@ -93,19 +93,19 @@
 #Notice: You will not move on with your mission until you choose A) to go to School.
 
 #Outcomes
-#A) You have arrived at School. Time to begin your mission.
-#B) You have contacted your species. They remind you of your mission.
-#C) You have checked out your Quarters. Your Quarters as additional funttions: Craft, Heal, Lookout.
-#D) You have ended your mission here. Your species is confused at your choice.
-#E) (Mission Briefing)
+    #A) You have arrived at School. Time to begin your mission.
+    #B) You have contacted your species. They remind you of your mission.
+    #C) You have checked out your Quarters. Your Quarters as additional funttions: Craft, Heal, Lookout.
+    #D) You have ended your mission here. Your species is confused at your choice.
+    #E) (Mission Briefing)
 #Notice: You do not loose any oxygen fillters while in your Quarters, unless your choice leads you to Earth.
 
 #Consequences
-#A) You are ready to begin MISSION ATTEND SCHOOL.  (You proceed to Scene 1 : Begin Mission SCHOOL (of Report Arc)
-#B) Your species encourages you to get started on your mission.
-#C) You can use any of these functions while in your Quarters by inputting their name.
-#D) Game Over!  (Returned to Scene 1 : Intro.)
-#E) You have read your mission briefing again. You feel more prepared for your mission.
+    #A) You are ready to begin MISSION ATTEND SCHOOL.  (You proceed to Scene 1 : Begin Mission SCHOOL (of Report Arc)
+    #B) Your species encourages you to get started on your mission.
+    #C) You can use any of these functions while in your Quarters by inputting their name.
+    #D) Game Over!  (Returned to Scene 1 : Intro.)
+    #E) You have read your mission briefing again. You feel more prepared for your mission.
 
 #Scene 1 : Begin Mission SCHOOL
 
@@ -211,20 +211,19 @@
 #What would you like to eat?
 
 #Choices
-
-#A) Eat the food provided by Species: Human, cafeteria.
-#B) Use your water balloons to create a distraction and steal food from Species: Human, staff lounge.
-#C) Do not eat.
+    #A) Eat the food provided by Species: Human, cafeteria.
+    #B) Use your water balloons to create a distraction and steal food from Species: Human, staff lounge.
+    #C) Do not eat.
 
 #Outcomes
-#A) The food was poisoned! You feel dizzy and your vision blurs. (decreased HP, -1 oxygen fillter)
-#B) You sucessfully stole food from Species: Human, staff lounge. You feel energized! (-2 water balloons, -1 oxygen fillter)
-#C) You did not eat. You feel weak and your vision blurs. (decreased HP)
+    #A) The food was poisoned! You feel dizzy and your vision blurs. (decreased HP, -1 oxygen fillter)
+    #B) You sucessfully stole food from Species: Human, staff lounge. You feel energized! (-2 water balloons, -1 oxygen fillter)
+    #C) You did not eat. You feel weak and your vision blurs. (decreased HP)
 
 #Consequences
-#A) You lost too much HP from the poison. Species: Human, found you passed out and used you in their research. Game Over!
-#B) You completed MISSION POISON and are ready for afternoon classes. (increased HP, if HP is already full then +1 oxygen fillter)
-#C) You lost a little HP from not eating. (-1 oxygen fillter)
+    #A) You lost too much HP from the poison. Species: Human, found you passed out and used you in their research. Game Over!
+    #B) You completed MISSION POISON and are ready for afternoon classes. (increased HP, if HP is already full then +1 oxygen fillter)
+    #C) You lost a little HP from not eating. (-1 oxygen fillter)
 
 #Scene 4 : Friend or Foe
 
@@ -243,54 +242,54 @@
 #Who should you approach?
 
 #Choices
-#A) Approach the Species: Human Teacher.
-#B) Join the surrounding Species: Human Students.
-#C) Do not approach anyone and leave school immediately.
-#D) Approach a Species: Human, cafeteria worker.
-#E) Approach a Species: Human, school principal.
+    #A) Approach the Species: Human Teacher.
+    #B) Join the surrounding Species: Human Students.
+    #C) Do not approach anyone and leave school immediately.
+    #D) Approach a Species: Human, cafeteria worker.
+    #E) Approach a Species: Human, school principal.
 
 #Outcomes
-#A) The Species: Human Teacher, asks you to move.
-# a. "I am here to help! What happened?"
-# b. Write your own response.
-# c. You quickly use your oxygen fillters to help the students breathe until the emergency services arrive. (increased HP)
+    #A) The Species: Human Teacher, asks you to move.
+        # a. "I am here to help! What happened?"
+        # b. Write your own response.
+        # c. You quickly use your oxygen fillters to help the students breathe until the emergency services arrive. (increased HP)
 
-#B) You bystand the situation, unsure of what to do. The event unfolds without you.
-#C) You leave school immediately.
-#D) You return to the cafateria and spot a Species: Human, cafeteria worker, being suspicious.
-#E) The Species: Human, school principal, sees you in distress and follows you to the scene.
+    #B) You bystand the situation, unsure of what to do. The event unfolds without you.
+    #C) You leave school immediately.
+    #D) You return to the cafateria and spot a Species: Human, cafeteria worker, being suspicious.
+    #E) The Species: Human, school principal, sees you in distress and follows you to the scene.
 
 #Consequences
-#A)
-# a. The Species: Human Teacher becomes fearful of your unworldly dialect. The authorites are called and you are acused of the student's POISONING. You've failed MISSION FRIEND OR FOE. Game Over!
-# b. You use 1 sharpened pencil and 1 lined paper to write your response. The Species: Human Teacher, understands your message and helps you reach the students. Your thanked for your help. The unconcious students lasted in time for help to arrive. When the authorites came, you feel a sense of accomplishment and take your leave before they can discover you. (increased HP, -3 oxygen fillter) You've COMPLETED MISSION FRIEND OR FOE. Game Complete!
-# b2. You do not have enough oxygen fillters to help the students.  (Returned to Outcomes with -1 oxygen filter in inventory and only a. choice remaining.)
-# c. The surrounding students are to crowded and won't let you through to the unconcious students. The Species: Human Teacher that approched is not much help alone. The unconcious students did not last in time for help to arrive. When the authorites came, you feel a sense of disappointment and take your leave before they can discover you. You've COMPLETED MISSION FRIEND OR FOE. Game Complete!
+    #A)
+        # a. The Species: Human Teacher becomes fearful of your unworldly dialect. The authorites are called and you are acused of the student's POISONING. You've failed MISSION FRIEND OR FOE. Game Over!
+        # b. You use 1 sharpened pencil and 1 lined paper to write your response. The Species: Human Teacher, understands your message and helps you reach the students. Your thanked for your help. The unconcious students lasted in time for help to arrive. When the authorites came, you feel a sense of accomplishment and take your leave before they can discover you. (increased HP, -3 oxygen fillter) You've COMPLETED MISSION FRIEND OR FOE. Game Complete!
+        # b2. You do not have enough oxygen fillters to help the students.  (Returned to Outcomes with -1 oxygen filter in inventory and only a. choice remaining.)
+        # c. The surrounding students are to crowded and won't let you through to the unconcious students. The Species: Human Teacher that approched is not much help alone. The unconcious students did not last in time for help to arrive. When the authorites came, you feel a sense of disappointment and take your leave before they can discover you. You've COMPLETED MISSION FRIEND OR FOE. Game Complete!
 
-#B) You've completed MISSION FRIEND OR FOE. Game Complete!
-#C) You've completed MISSION FRIEND OR FOE. Game Complete!
-#D) You have a chance to gather more information about the event.
-# a. Approach Species: Human, cafeteria worker.
-# b. Approach a Species: Human, student studying alone in the cafateria.
-# c. Approach a group of Species: Human, students playing together.
-# d. Approch no one and leave school immediately.
+    #B) You've completed MISSION FRIEND OR FOE. Game Complete!
+    #C) You've completed MISSION FRIEND OR FOE. Game Complete!
+    #D) You have a chance to gather more information about the event.
+        # a. Approach Species: Human, cafeteria worker.
+        # b. Approach a Species: Human, student studying alone in the cafateria.
+        # c. Approach a group of Species: Human, students playing together.
+        # d. Approch no one and leave school immediately.
 
 #Special Event: Choices
-#a. The Species: Human, cafeteria worker, is grateful for your concern but says they are too busy to talk. They quickly walk away. (-1 oxygen fillter. Return to Consequence #D)
-#b. You use 1 sharpened pencil and 1 lined paper to question the student. The Species: Human, student studying alone, thanks you for your help and praises your quick thinking. They say the cafeteria staff was resently changed. (-1 oxygen fillter. Return to Consequence #D)
-#c. The group of Species: Human, students playing together in the cafateria, welcome you into their group and share their snacks with you.
-#d. It's none of by business.
+    #a. The Species: Human, cafeteria worker, is grateful for your concern but says they are too busy to talk. They quickly walk away. (-1 oxygen fillter. Return to Consequence #D)
+    #b. You use 1 sharpened pencil and 1 lined paper to question the student. The Species: Human, student studying alone, thanks you for your help and praises your quick thinking. They say the cafeteria staff was resently changed. (-1 oxygen fillter. Return to Consequence #D)
+    #c. The group of Species: Human, students playing together in the cafateria, welcome you into their group and share their snacks with you.
+    #d. It's none of by business.
 
 #Special Event: Outcomes
-#b. The student says they noticed the cafeteria staff acting strange recently, often sneaking around and whispering to themselves. They mention that the snacks provided by the cafeteria have been tasting off lately. They suggest investigating the cafeteria further.
-#c. The snacks were apart of the cafateria lunch!
-#d. You leave school immediately.
+    #b. The student says they noticed the cafeteria staff acting strange recently, often sneaking around and whispering to themselves. They mention that the snacks provided by the cafeteria have been tasting off lately. They suggest investigating the cafeteria further.
+    #c. The snacks were apart of the cafateria lunch!
+    #d. You leave school immediately.
 
 #Special Event: Consequences
-#a. You've completed MISSION FRIEND OR FOE. Game Complete!
-#b. After additional investigation, you discover that the cafeteria worker was indeed poisoning the students as part of a attempt to "help". Confused, the cafteria worker ask if you would like to join MISSION SABATAGE. You refuse and anonmously report your findings to the authorities, who take swift action to ensure the safety of all students. You've completed MISSION FRIEND OR FOE. Game Complete!
-#c. Game Over! You've failed MISSION FRIEND OR FOE.
-#d. You've completed MISSION FRIEND OR FOE. Game Complete!
+    #a. You've completed MISSION FRIEND OR FOE. Game Complete!
+    #b. After additional investigation, you discover that the cafeteria worker was indeed poisoning the students as part of a attempt to "help". Confused, the cafteria worker ask if you would like to join MISSION SABATAGE. You refuse and anonmously report your findings to the authorities, who take swift action to ensure the safety of all students. You've completed MISSION FRIEND OR FOE. Game Complete!
+    #c. Game Over! You've failed MISSION FRIEND OR FOE.
+    #d. You've completed MISSION FRIEND OR FOE. Game Complete!
 
 
 #Congratulations Space Agent, you have sucessfully completed MISSION SCHOOL. Your species is one step closer to inhabiting Planet Earth. Your report will be sent back to your species headquarters for further analysis. Well done!
@@ -299,4 +298,4 @@
 #Thank you for playing!
 
 #Goodbye Space Agent!
-#COMING SOON: MISSION SABATAGE
+    #COMING SOON: MISSION SABATAGE
